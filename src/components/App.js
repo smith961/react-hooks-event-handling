@@ -9,7 +9,7 @@ function App() {
     <div>
       <h3>onClick</h3>
       <Tickler />
-      <hr />
+      <hr/>
 
       <MultiButton />
       <hr />
